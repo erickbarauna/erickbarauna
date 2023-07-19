@@ -1,4 +1,4 @@
-<img src="img/image_adobe_express_cortadonew.png" min-width="400px" max-width="350px" width="350px" margin-top="50px" align="right">
+<img src="img/image_adobe_express_final.png" min-width="400px" max-width="350px" width="350px" margin-top="50px" align="right">
 
 <h2 align="left">💜Olá, meu nome é <strong>{Erick}!</strong></h2>
 
@@ -23,5 +23,5 @@
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
 <a href="https://www.instagram.com/ericksbarauna_/" alt="Instagram">
-<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+<img src="https://img.shields.io/badge/-Instagram-886ce4?style=flat-square&labelColor=886ce4&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
