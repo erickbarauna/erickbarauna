@@ -1,4 +1,4 @@
-<img src="img/image_adobe_express_cortadon.png" min-width="400px" max-width="250px" width="250px" margin-top="50px" align="right">
+<img src="img/image_adobe_express_cortadon.png" min-width="400px" max-width="300px" width="300px" margin-top="50px" align="right">
 
 <h1 align="left">Olá, meu nome é <strong>{Erick}!</strong></h1>
 
