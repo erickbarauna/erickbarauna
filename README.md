@@ -1,19 +1,18 @@
-<img src="img/image_adobe_express.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="img/image_adobe_express_cortado.png" min-width="400px" max-width="350px" width="350px" align="right">
 
 <h1 align="left">Olá, meu nome é <strong>{Erick}!</strong></h1>
 
 <p align="left"> 
   Sou estudante de <strong>Desenvolvimento de Sistemas</strong> na Etec<br>
-  No momento estudo para me especializar em PHP e desenvolo
-  uma aplicação mobile para o meu TCC.
+  No momento estudo para me especializar em PHP e <br> desenvolvo uma aplicação mobile para o meu TCC.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+    <strong>Linguagens:</strong> PHP, JavaScript, Java, Python, C#.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  <strong>Ferramentas:</strong> Visual Studio, Visual Studio Code, Android Studio, Figma, GIMP.
 </p>
 
 <p align="left">
@@ -21,8 +20,10 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+  <abbr title="ericksbarauna26@gmail.com">
+      <a href="mailto:ericksbarauna26@gmail.com" alt="Gmail">
+      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+  </abbr>
 
   <a href="#" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
