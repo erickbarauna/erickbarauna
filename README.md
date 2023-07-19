@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: PHP, JavaScript, Java, Python, C#.
+    <strong>Linguagens:</strong> PHP, JavaScript, Java, Python, C#.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio, Visual Studio Code, Android Studio, Figma, GIMP.
+  <strong>Ferramentas:</strong> Visual Studio, Visual Studio Code, Android Studio, Figma, GIMP.
 </p>
 
 <p align="left">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:ericksbarauna26@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
   <a href="#" alt="LinkedIn">
