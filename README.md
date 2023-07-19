@@ -3,8 +3,8 @@
 <h1 align="left">Olá, meu nome é <strong>{Erick}!</strong></h1>
 
 <p align="left"> 
-  Sou estudante de <strong>Desenvolvimento de Sistemas</strong> na Etec<br>
-  No momento estudo para me especializar em PHP e <br> desenvolvo uma aplicação mobile para o meu TCC.
+  Sou estudante de <strong>Desenvolvimento de Sistemas</strong> na Etec.<br><br>
+  No momento estou começando meus estudos para me especializar em PHP e <br> participo de um grupo de TCC para o desenvolvimento de uma aplicação mobile.
 </p>
 
 <p align="left">
