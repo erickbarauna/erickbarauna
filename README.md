@@ -8,28 +8,12 @@
 </p>
 
 <p align="left">
-    <strong>Linguagens:</strong>
-</p>
-
-<p align="left">
-    PHP, JavaScript, Java.
-</p>
-
-<p align="left">
-    <strong>Ferramentas:</strong> 
-</p>
-
-<p align="left">
-    Visual Studio, Visual Studio Code, Android Studio, Figma, GIMP.
-</p>
-
-<p align="left">
   💌 Entre em contato ou saiba mais sobre mim: ⤵️
 </p>
 
 <p align="left">
-    <a href="mailto:ericksbarauna26@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+<a href="mailto:ericksbarauna26@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
 
 <a href="#" alt="LinkedIn">
