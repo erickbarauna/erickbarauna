@@ -1,6 +1,6 @@
 <img src="img/image_adobe_express_cortadonew.png" min-width="400px" max-width="350px" width="350px" margin-top="50px" align="right">
 
-<h1 align="left">Olá, meu nome é <strong>{Erick}!</strong></h1>
+<h2 align="left">Olá, meu nome é <strong>{Erick}!</strong></h2>
 
 <p align="left"> 
   Sou estudante de <strong>Desenvolvimento de Sistemas</strong> na Etec.<br><br>
