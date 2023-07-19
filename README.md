@@ -4,11 +4,11 @@
 
 <p align="left"> 
   Sou estudante de <strong>Desenvolvimento de Sistemas</strong> na Etec.<br><br>
-  No momento estou começando meus estudos para me especializar em PHP e participo de um grupo de TCC para o desenvolvimento de uma aplicação mobile em Java.
+  No momento estou começando meus estudos para me especializar em PHP e estou em um grupo de TCC para o desenvolvimento de uma aplicação mobile em Java.
 </p>
 
 <p align="left">
-  💌 Entre em contato ou saiba mais sobre mim: ⤵️
+   Entre em contato ou saiba mais sobre mim: 💌⤵️
 </p>
 
 <p align="left">
