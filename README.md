@@ -1,8 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="img/image_adobe_express.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<h1 align="left">Olá, meu nome é <strong>{Erick}!</strong></h1>
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Sou estudante de <strong>Desenvolvimento de Sistemas</strong> na Etec<br>
+  No momento estudo para me especializar em PHP e desenvolo
+  uma aplicação mobile para o meu TCC.
 </p>
 
 <p align="left">
