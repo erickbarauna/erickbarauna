@@ -1,10 +1,10 @@
 <img src="img/image_adobe_express_final.png" min-width="400px" max-width="350px" width="350px" margin-top="50px" align="right">
 
-<h2 align="left">💜Olá, meu nome é <strong>{Erick}!</strong></h2>
+<h1 align="left">💜Olá, meu nome é <strong>{Erick}!</strong></h1>
 
 <p align="left"> 
   Sou estudante de <strong>Desenvolvimento de Sistemas</strong> na Etec.<br><br>
-  No momento estou começando meus estudos para me especializar em PHP e estou em um grupo de TCC para o desenvolvimento de uma aplicação mobile em Java.
+  No momento estou começando meus estudos para me especializar em <strong>PHP</strong> e estou em um grupo de TCC para o desenvolvimento de uma aplicação mobile em <strong>Java</strong>.
 </p>
 
 <p align="left">
