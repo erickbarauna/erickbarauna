@@ -1,4 +1,4 @@
-<img src="img/image_adobe_express_cortado.png" min-width="400px" max-width="350px" width="350px" align="right">
+<img src="img/image_adobe_express_cortado.png" min-width="400px" max-width="250px" width="250px" align="right">
 
 <h1 align="left">Olá, meu nome é <strong>{Erick}!</strong></h1>
 
@@ -28,7 +28,7 @@
   <a href="#" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://wa.me/5511918651825?text=Ol%C3%A1,%20converse%20comigo%20agora!" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
   <a href="#" alt="Facebook">
